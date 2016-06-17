@@ -12,7 +12,7 @@
     
         data.addRows([
           @foreach($driver_profile as $key => $value)
-          [{{$key}}, {{$value}}],
+          [{{$key}}, {{$value->speed}}],
           @endforeach
         ]);
     

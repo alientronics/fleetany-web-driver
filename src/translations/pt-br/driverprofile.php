@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'AverageSpeed'   => 'Velocidade M&eacute;dia',
-    'MeasurementNumber'   => 'N&uacute;mero da Medi&ccedil;&atilde;o'
+    'AverageSpeed'   => 'Velocidade M\u00E9dia',
+    'MeasurementNumber'   => 'N\u00FAmero da Medi\u00E7\u00E3o'
 ];
